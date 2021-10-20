@@ -1,0 +1,14 @@
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\bin\Debug\netcoreapp3.1\stringOperation.exe
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\bin\Debug\netcoreapp3.1\stringOperation.deps.json
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\bin\Debug\netcoreapp3.1\stringOperation.runtimeconfig.json
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\bin\Debug\netcoreapp3.1\stringOperation.runtimeconfig.dev.json
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\bin\Debug\netcoreapp3.1\stringOperation.dll
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\bin\Debug\netcoreapp3.1\stringOperation.pdb
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\obj\Debug\netcoreapp3.1\stringOperation.csproj.AssemblyReference.cache
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\obj\Debug\netcoreapp3.1\stringOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\obj\Debug\netcoreapp3.1\stringOperation.AssemblyInfoInputs.cache
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\obj\Debug\netcoreapp3.1\stringOperation.AssemblyInfo.cs
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\obj\Debug\netcoreapp3.1\stringOperation.csproj.CoreCompileInputs.cache
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\obj\Debug\netcoreapp3.1\stringOperation.dll
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\obj\Debug\netcoreapp3.1\stringOperation.pdb
+C:\Users\shivam.chauhan\source\repos\stringOperation\stringOperation\obj\Debug\netcoreapp3.1\stringOperation.genruntimeconfig.cache

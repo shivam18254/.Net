@@ -1,0 +1,14 @@
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.exe
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.deps.json
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.runtimeconfig.json
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.runtimeconfig.dev.json
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.dll
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.pdb
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.csproj.AssemblyReference.cache
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.AssemblyInfoInputs.cache
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.AssemblyInfo.cs
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.dll
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.pdb
+C:\Users\shivam.chauhan\source\repos\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.genruntimeconfig.cache

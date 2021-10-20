@@ -1,0 +1,13 @@
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\obj\Debug\netcoreapp3.1\switch_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\obj\Debug\netcoreapp3.1\switch_one.AssemblyInfoInputs.cache
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\obj\Debug\netcoreapp3.1\switch_one.AssemblyInfo.cs
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\obj\Debug\netcoreapp3.1\switch_one.csproj.CoreCompileInputs.cache
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\bin\Debug\netcoreapp3.1\switch_one.exe
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\bin\Debug\netcoreapp3.1\switch_one.deps.json
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\bin\Debug\netcoreapp3.1\switch_one.runtimeconfig.json
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\bin\Debug\netcoreapp3.1\switch_one.runtimeconfig.dev.json
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\bin\Debug\netcoreapp3.1\switch_one.dll
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\bin\Debug\netcoreapp3.1\switch_one.pdb
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\obj\Debug\netcoreapp3.1\switch_one.dll
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\obj\Debug\netcoreapp3.1\switch_one.pdb
+C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\obj\Debug\netcoreapp3.1\switch_one.genruntimeconfig.cache

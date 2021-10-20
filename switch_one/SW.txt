@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: switch_one, Configuration: Debug Any CPU ------
+1>C:\Users\shivam.chauhan\source\repos\switch_one\switch_one\Program.cs(36,2,36,2): error CS1513: } expected
+1>Done building project "switch_one.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
